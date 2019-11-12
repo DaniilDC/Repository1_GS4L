@@ -1,4 +1,5 @@
 def main():
+    print('1')
     print('GS4L')
 
 
